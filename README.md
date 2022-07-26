@@ -16,3 +16,5 @@ commit - save the change in files in Git
 push - Upload Git commits to a remote repo
 pull - Download the changes from remote repo to local machine, opposite of push
 I am changing something for better
+
+some changes
