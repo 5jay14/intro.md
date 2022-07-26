@@ -18,3 +18,5 @@ pull - Download the changes from remote repo to local machine, opposite of push
 I am changing something for better
 
 some changes
+
+are made now
