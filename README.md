@@ -1,6 +1,6 @@
 # intro.md
 
-Intro to github
+## Intro to github
 
 
 Directory - Folder
